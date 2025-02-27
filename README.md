@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- https://www.facebook.com/profile.php?id=61573197411991
-- 
+
 
 <!---
 gunawan69389/gunawan69389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
